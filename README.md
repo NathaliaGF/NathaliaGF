@@ -6,14 +6,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NathaliaGF&bg_color=000000&color=9ACD32&line=3CB371&point=808000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NathaliaGF&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NathaliaGF&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Nathalia Gomes github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NathaliaGF&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=32CD32&text_color=c9d1d9&bg_color=0d1117" alt="Nathalia Gomes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaGF&layout=compact&hide_border=true&title_color=228B22&text_color=6B8E23&bg_color=0d1117" />
 </div>
 
