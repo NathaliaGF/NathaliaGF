@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDB76B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Nathalia+Gomes;I'm+20+years+old;I'm+from+Brazil;Enjoy!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NathaliaGF&bg_color=000000&color=9ACD32&line=3CB371&point=808000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <div align="center">  
