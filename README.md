@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDB76B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nathalia+Gomes;Cyber+Security+Enthusiast+|+Data+Analyst+|+Dev+Full-Stack;From+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDB76B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nathalia+Gomes;Security+Enthusiast+|+Data+Analyst+|From+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Graduating in **Systems Analysis and Development**  
+- 🎓 Graduating in **Science in Information Systems**  
 - 🔐 Passionate about **Cybersecurity** and **Data Analysis**  
 - 🌱 Currently learning **Cloud Computing & Ethical Hacking**  
 - 💼 Open to collaborations and job opportunities  
