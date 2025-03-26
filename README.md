@@ -37,15 +37,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)&nbsp;
 
----
 
-### 📊 GitHub Stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NathaliaGF&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=32CD32&text_color=c9d1d9&bg_color=0d1117" alt="Nathalia Gomes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaGF&layout=compact&hide_border=true&title_color=228B22&text_color=6B8E23&bg_color=0d1117" />
-</div>
-
----
 
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](www.linkedin.com/in/nathalia-gomes-felipe-a5b6a9237)
