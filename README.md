@@ -37,7 +37,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)&nbsp;
 
-
+---
 
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](www.linkedin.com/in/nathalia-gomes-felipe-a5b6a9237)
