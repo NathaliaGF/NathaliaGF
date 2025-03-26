@@ -1,33 +1,54 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDB76B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Nathalia+Gomes;I'm+22+years+old;I'm+from+Brazil;Enjoy!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDB76B&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nathalia+Gomes;Cyber+Security+Enthusiast+|+Data+Analyst+|+Dev+Full-Stack;From+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
+---
 
+### 👩‍💻 About Me
+- 🎓 Graduating in **Systems Analysis and Development**  
+- 🔐 Passionate about **Cybersecurity** and **Data Analysis**  
+- 🌱 Currently learning **Cloud Computing & Ethical Hacking**  
+- 💼 Open to collaborations and job opportunities  
 
+---
 
+### 🛠️ Tech Stack
+
+#### **Programming & Development**
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
+
+#### **Cybersecurity & Networks**
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=0D1117)&nbsp;
+![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)&nbsp;
+![Nmap](https://img.shields.io/badge/-Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=white)&nbsp;
+![OWASP](https://img.shields.io/badge/-OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=000000)&nbsp;
+
+#### **Data & Cloud**
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)&nbsp;
+
+#### **Infrastructure & DevOps**
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)&nbsp;
+
+---
+
+### 📊 GitHub Stats
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NathaliaGF&show_icons=true&count_private=true&hide_border=true&title_color=008000&icon_color=32CD32&text_color=c9d1d9&bg_color=0d1117" alt="Nathalia Gomes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaGF&layout=compact&hide_border=true&title_color=228B22&text_color=6B8E23&bg_color=0d1117" />
 </div>
 
+---
 
-<div align="center"> 
-<a href = "mailto:cmp.1a.nathalia30_@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/nathalia-gomes-felipe-a5b6a9237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+### 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](www.linkedin.com/in/nathalia-gomes-felipe-a5b6a9237)
+[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:cmp.1a.nathalia30_@hotmail.com)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
-
