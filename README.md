@@ -48,15 +48,6 @@
 
 ---
 
-### 📈 GitHub Analytics & Projects
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-</div>
-
----
-
 ### 📚 Security Resources I Recommend
 - [MITRE ATT&CK Framework](https://attack.mitre.org/)
 - [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
