@@ -9,7 +9,6 @@
 
 - 🔐 **Security Focus:** Threat Hunting • Vulnerability Assessment • Incident Response
 - 🎓 **Education:** B.S. Information Systems | Cybersecurity Specialization
-- 🌐 **Certifications:** [CompTIA Security+ | eJPT | CCNA (in progress)] 
 - 📊 **Background:** Data Analysis applied to Security Logs & Threat Intelligence
 - 💼 **Open to:** Security Analyst • SOC • Penetration Testing • GRC roles
 
