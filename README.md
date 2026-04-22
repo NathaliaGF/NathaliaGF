@@ -56,6 +56,8 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🔍 docker-security-scanner](https://github.com/NathaliaGF/docker-security-scanner) | CLI tool that audits `docker-compose.yml` and `Dockerfile` for security misconfigurations | Python |
+| [🔐 secrets-scanner](https://github.com/NathaliaGF/secrets-scanner) | CLI that scans files, directories and Git history for exposed credentials and API keys | Python |
+| [📚 FocusFlow](https://github.com/NathaliaGF/FocusFlow) | Local study app with Pomodoro, task manager, personal wiki and productivity dashboard | HTML · CSS · JavaScript |
 | [🎫 Helpdesk](https://github.com/NathaliaGF/Helpdesk) | Internal ticketing system with role-based access, dashboards and automation | Node.js · PostgreSQL · Docker |
 
 ---
