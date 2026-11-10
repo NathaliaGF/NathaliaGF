@@ -60,15 +60,9 @@ Interactive networking course, from zero to CCNA. 100% frontend, no backend, wor
 |---|---|
 | **Linux** | RHEL/CentOS/Rocky, SELinux, nftables, auditd, CIS hardening, Bash |
 | **Languages** | Python, Bash, JavaScript/TypeScript, SQL |
-| **Databases** | PostgreSQL |
+| **Databases** | PostgreSQL, Mongo, NoSQL |
 | **Containers** | Docker, Docker Compose, Kubernetes |
 | **DevSecOps** | GitHub Actions, secrets detection, SARIF |
 | **Offensive** | Burp Suite, OWASP ZAP, Nmap, ffuf, sqlmap, Wireshark, OWASP Top 10, MITRE ATT&CK |
 
 ---
-
-## Now
-
-- End-to-end lab: IaC and a CI pipeline gated by my own scanners, then attacking it and publishing the findings
-- Write-ups of retired HTB / TryHackMe machines
-- Kubernetes support in `docker-security-scanner`
