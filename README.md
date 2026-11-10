@@ -2,7 +2,7 @@
 
 **DevSecOps · Linux infrastructure · Offensive security**
 
-I build, ship and break what I build. I come from infrastructure: RHEL/Rocky in production, SELinux enforcing, nftables, CIS hardening and N2/N3 incident response with root-cause analysis. I know how systems are defended and how they break. Today I automate security in the pipeline (SARIF, secrets detection, container checks) and I'm building the offensive side with labs and write-ups.
+I build, ship and break what I build. I come from infrastructure, with RHEL/Rocky in production, SELinux enforcing, nftables, CIS hardening and N2/N3 incident response with root-cause analysis, so I know both sides of the same system. Today I automate security in the pipeline (SARIF, secrets detection, container checks) and I'm building the offensive side with labs and write-ups.
 
 🌐 [nathaliagf.dev](https://nathaliagf.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/nathalia-gomes-felipe-32aa9b2a9)
 
@@ -51,14 +51,14 @@ Interactive networking course, from zero to CCNA. 100% frontend, no backend, wor
 | **Linux** | RHEL/CentOS/Rocky, SELinux, nftables, auditd, CIS hardening, Bash |
 | **Languages** | Python, Bash, JavaScript/TypeScript, SQL |
 | **Databases** | PostgreSQL |
-| **Containers** | Docker, Docker Compose, Kubernetes (learning) |
+| **Containers** | Docker, Docker Compose, Kubernetes |
 | **DevSecOps** | GitHub Actions, secrets detection, SARIF |
-| **Offensive (learning)** | Burp Suite, Nmap, OWASP Top 10, MITRE ATT&CK |
+| **Offensive** | Burp Suite, OWASP ZAP, Nmap, ffuf, sqlmap, Wireshark, OWASP Top 10, MITRE ATT&CK |
 
 ---
 
-## Roadmap
+## Now
 
+- End-to-end lab: IaC and a CI pipeline gated by my own scanners, then attacking it and publishing the findings
 - Write-ups of retired HTB / TryHackMe machines
-- A small end-to-end project with IaC and a CI pipeline gated by my own scanners, then attacking it and publishing the findings
 - Kubernetes support in `docker-security-scanner`
