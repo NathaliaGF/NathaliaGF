@@ -21,6 +21,17 @@ Static security scanner for `Dockerfile` and `docker-compose.yml`.
 
 `Python` · `Docker` · `SARIF` · `GitHub Actions` · `MCP`
 
+### 🔐 [secrets-scanner](https://github.com/NathaliaGF/secrets-scanner)
+Finds hard-coded secrets in files, directories, **staged changes** and **Git history**. Zero dependencies.
+
+- 30 rules (cloud, Git hosts, payment, LLM and package-registry keys, private keys, DB URLs, generic `.env`/YAML/JSON assignments)
+- Reports a secret at the commit that introduced it; `--staged` works as a **pre-commit hook**
+- **SARIF** output, **GitHub Action**, baseline and `.secretsignore` to adopt it on existing repos
+- Low-noise filters for placeholders and code; every secret is masked in the output
+- 200+ tests on Python 3.9-3.13, and it scans its own repository in CI
+
+`Python` · `Git` · `SARIF` · `GitHub Actions` · `pre-commit`
+
 ### 🌐 [wikinet (RedesWiki)](https://github.com/NathaliaGF/wikinet) · [▶ live demo](https://nathaliagf.github.io/wikinet/)
 Interactive networking course, from zero to CCNA. 100% frontend, no backend, works offline.
 
@@ -37,7 +48,6 @@ Interactive networking course, from zero to CCNA. 100% frontend, no backend, wor
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🔐 secrets-scanner](https://github.com/NathaliaGF/secrets-scanner) | Finds exposed credentials and API keys in files, directories and **Git history** | Python |
 | [🛰️ threat-intel-dashboard](https://github.com/NathaliaGF/threat-intel-dashboard) | Collects and visualizes threat intelligence indicators | JavaScript |
 | [🐧 linuxwiki](https://github.com/NathaliaGF/linuxwiki) | Linux wiki: modules, simulated terminal, SM-2 flashcards, offline PWA | HTML · JS |
 | [🎫 Helpdesk](https://github.com/NathaliaGF/Helpdesk) | Ticket dashboard with metrics, charts and a REST API | Python · Flask |
