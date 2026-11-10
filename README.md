@@ -10,6 +10,17 @@ I build, ship and break what I build. I come from infrastructure, with RHEL/Rock
 
 ## Featured projects
 
+### 🚀 [secure-delivery-lab](https://github.com/NathaliaGF/secure-delivery-lab)
+A small service delivered the way production software should be: scanned by gates that **block** the release, signed, deployed to a provisioned environment, smoke-tested, and promoted only after approval.
+
+- Pipeline with blocking gates (**dockerscan**, **secrets-scanner**, **Trivy**). The image is scanned first and the *same* image is pushed, signed with **cosign** (keyless) and verified before it is deployed
+- **Terraform** provisions staging; smoke tests and a hardening check run against the live container; manual approval to promote; rollback by digest
+- **Ansible** role `rhel_cis_hardening` (SSH, firewall, auditd, sysctl...) tested in a Rocky Linux 9 container: idempotence and the effective `sshd` configuration
+- Every GitHub Action pinned to a commit SHA, hash-locked dependencies, Dependabot
+- The README says what it is *not*: "production" is a promoted tag, not a server
+
+`Terraform` · `Ansible` · `GitHub Actions` · `Docker` · `cosign` · `Trivy` · `Prometheus`
+
 ### 🐳 [docker-security-scanner](https://github.com/NathaliaGF/docker-security-scanner)
 Static security scanner for `Dockerfile` and `docker-compose.yml`.
 
@@ -62,7 +73,8 @@ Interactive networking course, from zero to CCNA. 100% frontend, no backend, wor
 | **Languages** | Python, Bash, JavaScript/TypeScript, SQL |
 | **Databases** | PostgreSQL, Mongo, NoSQL |
 | **Containers** | Docker, Docker Compose, Kubernetes |
-| **DevSecOps** | GitHub Actions, secrets detection, SARIF |
+| **DevSecOps** | GitHub Actions, secrets detection, SARIF, Trivy, cosign, SBOM |
+| **IaC & delivery** | Terraform, Ansible, Docker Compose, Prometheus, Grafana |
 | **Offensive** | Burp Suite, OWASP ZAP, Nmap, ffuf, sqlmap, Wireshark, OWASP Top 10, MITRE ATT&CK |
 
 ---
