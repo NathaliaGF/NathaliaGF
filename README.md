@@ -1,6 +1,6 @@
 # Nathalia Gomes
 
-**DevSecOps · Linux infrastructure · offensive security (in training)**
+**DevSecOps · Linux infrastructure · offensive security**
 
 I build, ship and break what I build. I come from infrastructure: RHEL/Rocky in production, SELinux enforcing, nftables, CIS hardening and N2/N3 incident response with root-cause analysis. I know how systems are defended and how they break. Today I automate security in the pipeline (SARIF, secrets detection, container checks) and I'm building the offensive side with labs and write-ups.
 
